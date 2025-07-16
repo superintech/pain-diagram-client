@@ -360,3 +360,13 @@ textarea.txtera{
 .bounce-down {
   animation: bounce-down 1s infinite ease-in-out;
 }
+
+    .attachement-container {
+margin : 10px 0;
+padding: 8px 12px;
+background-color: #e8f5e9;
+border: 1px solid #4caf50;
+border-radius: 4px;
+color: #2e7d32;
+width: 98%;
+    }
